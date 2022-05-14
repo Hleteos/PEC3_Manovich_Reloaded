@@ -50,6 +50,16 @@ En este nuevo re-descubrimiento sobre cómo los medios de arte pueden llegar a i
 **[HAKANAI de Adrien M Claire B TEMPS D'IMAGES](https://www.youtube.com/watch?v=BukdKKoiZao)**
 **["Between Dreams & Reality" - Adrien M & Claire B](https://www.youtube.com/watch?v=pCYk2-xYv4w)**
 
+
++ ejemplos de mapping 3D → 
+Festival of Lights Berlin - Fernsehturm - Special Award - FESTIVAL OF LIGHTS 2018
+(https://www.youtube.com/watch?v=ycyzNt5yq7U)
+
+CO2 Video Cube in Copenhagen. Light Harvest Studio. 
+(https://www.youtube.com/watch?v=ht5VTtC0PNo)
+
+
+
  ### Referencias y Bibliografía
  
 
