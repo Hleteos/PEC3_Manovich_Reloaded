@@ -25,6 +25,7 @@ Es cierto que cuando Lev Manovich escribió su libro, las estaciones de trabajo 
 
 ## Re-descubriendo la hibridación: 
 ### *3D Mapping in Lebanon - La Nuit Des Musees 2018*
+![Lebanon  Museam  3D-mapping](https://user-images.githubusercontent.com/99895033/168449910-0fab1940-c7fa-4a3f-9995-19820f50a621.jpg)
 
 “Cre8Mania  digital agency” es una agencia, no hablamos de artistas individuales sino colectivos multidisciplinares de creadores, que llevó a cabo esta maravilla de obra en los los exteriores del Museo Nacional de Beirut, año 2018. Este edificio de estilo neo-egipcio, por lo que muy influenciado por la arquitectura antigua del país, fue el lugar perfecto para una proyección de unos siete minutos sobrecogedora. La obra es visual y sonora, y a través de proyecciones de imagen 3D muy dinámicas realizas un viaje por la historia de la creación del universo y la llegada a través de los tiempos de nuestra humanidad.
 
@@ -44,11 +45,16 @@ En este caso, llevamos el mapping 3D a superficies más comerciales, el lanzamie
   
 ## Re-descubriendo la hibridación: 
 ### _[Hakanaï 2013]_
+![Hakanai-3dmapping-dance-4](https://user-images.githubusercontent.com/99895033/168449908-e23825ca-84f8-4e6c-b8d2-f5edbee50d39.jpg)
 
 En este nuevo re-descubrimiento sobre cómo los medios de arte pueden llegar a interactuar y recrear nuevas posibilidades, descubrimos uno de los magníficos trabajos de la compañía de arte Adrien M & Claire B. “Hakanai”, con una duración de 40 minutos, podría definirse como una instalación de arte, pero sin duda, es mucho más. Una obra escénica que entremezcla la expresividad de la danza con efectos de mapping 3D y música. El baile combina perfectamente en una ambientación oriental (influencias de la cultura japonesa) que destaca la expresividad del cuerpo en un entorno de luces y formas que se ejecutan alrededor de la bailarina, proyectándose visualmente "al aire", ya que se usan cuatro pantallas y cuatro proyectores, parecen que las el 3D cobra vida. 
 
 **[HAKANAI de Adrien M Claire B TEMPS D'IMAGES](https://www.youtube.com/watch?v=BukdKKoiZao)**
 **["Between Dreams & Reality" - Adrien M & Claire B](https://www.youtube.com/watch?v=pCYk2-xYv4w)**
+
+
+
+___
 
 
 + ejemplos de mapping 3D → 
